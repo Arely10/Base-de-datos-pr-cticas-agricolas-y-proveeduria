@@ -1,0 +1,218 @@
+Tipo de Suelo,Porta Injerto,Temporada,m.s.n.m,Edad Promedio,Arboles en producción,Tipo de Poda,Temperatura media,Milimetros de lluvia,Foliar(lt/ha),Nutriente (gr/ rbol),Herbicida (lt/ha),Kg Cosecha,kg fruta exportable,C110,C150,C175,C200,C230,C250,Registro
+Arenoso,Swingle,baja,87,2,357,Estresante,29,39,0,500,200,2478,1632,10,33,11,19,16,7,h2
+Arenoso,Swingle,baja,87,2,357,Estresante,33,50,400,500,0,29891,26554,17,123,276,381,542,223,h2
+Arenoso,Swingle,Alta,87,2,357,Estresante,32,47,400,500,0,32825,30600,4,86,300,578,731,101,h2
+Arenoso,Swingle,Alta,87,2,357,Estresante,30,206,0,0,200,9120,7905,1,22,96,118,157,71,h2
+Arenoso,Swingle,Alta,87,2,357,Estresante,31,180,0,0,200,45630,41497,2,939,302,519,537,142,h2
+Arenoso,Swingle,Alta,87,2,357,Estetica ,31,214,400,0,200,183396,144449,95,1894,2835,2234,1116,323,h2
+Arenoso,Swingle,Alta,87,2,357,Estetica ,29,209,400,0,200,30915,23885,6,201,448,505,209,36,h2
+Arenoso,Swingle,Alta,87,2,357,Estetica ,28,178,400,0,200,94947,47668,48,1182,677,643,227,27,h2
+Arenoso,Swingle,Alta,87,2,357,Estetica ,29,215,400,0,200,124896,80444,108,1449,1149,1121,519,386,h2
+Arenoso,Swingle,Alta,87,2,357,Estetica ,30,267,400,0,200,50067,35598,314,782,578,257,112,51,h2
+Arenoso,Swingle,Alta,87,2,357,Estetica ,29,245,400,0,200,11501,3944,0,92,78,47,11,4,h2
+Arenoso,Swingle,Alta,87,2,357,Estetica ,28,229,400,0,200,5480,4420,42,79,65,42,21,11,h2
+Arenoso,Swingle,Alta,87,2,357,Estetica ,29,241,400,0,200,30830,26095,283,530,380,182,111,49,h2
+Arenoso,Swingle,Alta,87,2,357,Estetica ,28,255,400,0,200,6228,5032,51,87,74,54,24,6,h2
+Arenoso,Swingle,baja,87,2,357,Estetica ,27,232,400,0,200,4842,4250,31,67,75,45,19,13,h2
+Arenoso,Swingle,baja,87,2,357,Estetica ,29,222,400,0,200,4280,3570,6,44,63,52,38,7,h2
+Arenoso,Swingle,baja,87,2,357,Estetica ,27,243,400,0,200,5465,4335,8,57,70,67,38,15,h2
+Arenoso,Swingle,baja,87,2,357,Estetica ,27,211,400,250,0,6347,5593,21,81,85,88,40,14,h2
+Arenoso,Swingle,baja,87,2,357,Estetica ,28,178,400,0,200,625,425,1,6,6,8,4,0,h2
+Arenoso,Swingle,baja,87,2,357,Estetica ,27,233,400,250,0,5326,4794,12,48,82,66,55,19,h2
+Arenoso,Swingle,baja,87,2,357,Estetica ,26,198,400,250,0,6254,5576,22,90,36,122,43,15,h2
+Arenoso,Swingle,baja,87,2,357,Estetica ,27,223,0,250,0,9059,8296,64,92,162,84,69,17,h2
+Arenoso,Swingle,baja,87,2,357,Estetica ,27,209,400,250,0,3912,3553,21,39,70,42,29,8,h3
+Arenoso,Swingle,Alta,87,2,357,Estetica ,24,104,0,250,0,22180,18904,105,185,251,295,218,58,h2
+Arenoso,Swingle,Alta,87,2,357,Estetica ,26,113,0,250,0,21482,18258,121,221,302,219,159,52,h2
+Arenoso,Swingle,Alta,87,2,357,Estetica ,26,107,0,250,0,8969,7361,36,72,108,116,81,20,h2
+Arenoso,Swingle,Alta,87,2,357,Estetica ,25,132,0,250,200,5961,4709,32,57,62,67,46,13,h2
+Arenoso,Swingle,baja,87,2,357,Estetica ,25,96,0,250,200,6426,3944,49,54,48,48,28,5,h2
+Arenoso,Swingle,baja,87,2,357,Estetica ,24,79,0,250,200,6426,5440,47,69,73,69,49,13,h2
+Arenoso,Macrophila y Swingle ,Alta,87,10,476,Estetica ,23,15,0,0,200,64380,40970,14,490,772,682,342,110,h3
+Arenoso,Macrophila y Swingle ,Alta,87,10,476,Estetica ,23,15,0,0,200,43295,26401,21,169,499,423,339,102,h3
+Arenoso,Macrophila y Swingle ,Alta,87,10,476,Estetica ,23,15,0,0,200,3650,2550,4,42,41,38,21,4,h3
+Arenoso,Macrophila y Swingle ,Alta,87,10,476,Estetica ,25,10,400,0,200,27076,24310,287,535,363,147,79,19,h3
+Arenoso,Macrophila y Swingle ,baja,87,10,476,Estetica ,25,13,400,250,0,6196,4879,63,122,53,33,10,6,h3
+Arenoso,Macrophila y Swingle ,baja,87,10,476,Estetica ,26,20,0,250,0,5650,5083,6,55,96,80,37,25,h3
+Arenoso,Macrophila y Swingle ,baja,87,10,476,Estetica ,26,20,0,250,0,2498,2312,4,14,27,43,32,16,h3
+Arenoso,Macrophila y Swingle ,baja,87,10,476,Estetica ,26,20,0,250,0,5335,4896,9,65,95,67,31,21,h3
+Arenoso,Macrophila y Swingle ,baja,87,10,476,Estetica ,26,25,400,250,0,7563,6426,14,32,122,93,80,37,h3
+Arenoso,Macrophila y Swingle ,baja,87,10,476,Estetica ,28,95,400,250,0,5863,5253,36,64,62,63,31,53,h3
+Arenoso,Macrophila y Swingle ,Baja,87,11,952,Estetica ,25,13,200,250,0,1196,1003,4,16,17,14,5,3,h4
+Arenoso,Macrophila y Swingle ,Baja,87,11,952,Estetica ,25,10,200,0,0,31264,18309,78,328,444,160,52,15,h4
+Arenoso,Macrophila y Swingle ,Baja,87,11,952,Estetica ,28,95,200,250,0,5064,4352,37,57,59,61,34,8,h4
+Arenoso,Macrophila y Swingle ,Baja,87,11,952,Estetica ,26,25,200,0,200,2286,1853,10,24,24,28,18,5,h4
+Arenoso,Swingle,Alta,87,3,285,Estresante,25,270,400,0,0,19520,14280,83,122,216,275,133,11,h1
+Arenoso,Swingle,Alta,87,3,285,Estresante,25,270,400,0,0,10477,9928,61,81,119,188,117,18,h1
+Arenoso,Swingle,Alta,87,3,285,Estresante,21,65,0,250,200,18187,12478,54,63,200,240,142,35,h1
+Arenoso,Swingle,Alta,87,3,285,Estresante,21,65,0,250,200,7219,6511,6,26,51,119,133,48,h1
+Arenoso,Swingle,Alta,87,3,285,Estresante,22,165,400,250,200,33095,20944,17,77,103,331,493,211,h1
+Arenoso,Swingle,Alta,87,3,285,Estresante,22,165,400,250,200,20601,14144,29,50,92,234,300,127,h1
+Arenoso,Swingle,Alta,87,3,285,Estresante,22,30,400,250,200,5945,4505,12,96,70,52,27,8,h1
+Arenoso,Swingle,Alta,87,3,285,Estresante,22,30,400,250,200,47057,28458,16,158,243,492,546,219,h1
+Arenoso,Swingle,Baja,87,3,285,Estetica ,20,35,400,0,0,9854,7276,10,50,50,88,121,109,h1
+Arenoso,Swingle,Baja,87,3,285,Estetica ,21,38,400,0,200,5045,4080,38,97,50,34,18,3,h1
+Arenoso,Swingle,Baja,87,3,285,Estetica ,20,35,400,250,200,13037,10353,12,89,95,157,163,93,h1
+Arenoso,Swingle,Baja,87,3,285,Estetica ,21,65,400,0,0,15643,9367,39,154,123,126,81,28,h1
+Arenoso,Swingle,Baja,87,3,285,Estetica ,21,65,400,250,200,2478,1632,10,33,11,19,16,7,h1
+Arenoso,Swingle,Baja,87,3,285,Estetica ,20,65,0,250,200,1696,799,3,21,6,7,7,3,h1
+Arenoso,Swingle,Baja,87,3,357,Estetica ,23,240,400,0,200,777,663,6,6,6,9,10,2,h2
+Arenoso,Swingle,Baja,87,3,357,Estetica ,23,240,400,0,200,3679,3281,76,36,34,26,16,5,h2
+Arenoso,Swingle,Alta,87,3,357,Estresante,25,270,400,0,200,24051,22729,206,300,291,360,161,19,h2
+Arenoso,Swingle,Alta,87,3,357,Estresante,25,270,400,0,200,10477,9945,61,81,120,188,117,18,h2
+Arenoso,Swingle,Alta,87,3,357,Estresante,24,97,400,250,200,8119,7310,61,97,116,95,58,3,h2
+Arenoso,Swingle,Alta,87,3,357,Estresante,24,97,400,250,200,36021,32334,115,455,479,518,280,55,h2
+Arenoso,Swingle,Alta,87,3,357,Estresante,21,65,400,250,200,12054,10727,29,170,183,147,81,21,h2
+Arenoso,Swingle,Alta,87,3,357,Estresante,24,97,400,250,0,4648,3927,24,17,28,66,73,23,h2
+Arenoso,Swingle,Alta,87,3,357,Estresante,24,97,400,250,0,12262,8653,39,67,87,130,143,43,h2
+Arenoso,Swingle,Alta,87,3,357,Estresante,22,30,400,250,0,62626,28169,40,259,403,484,366,105,h2
+Arenoso,Swingle,Alta,87,3,357,Estresante,22,30,400,250,0,58864,25857,64,402,394,393,193,75,h2
+Arenoso,Swingle,Alta,87,3,357,Estresante,22,30,400,250,0,46075,21250,19,157,228,421,322,103,h2
+Arenoso,Swingle,Alta,87,3,357,Estresante,21,38,0,0,200,26450,12189,84,326,118,117,56,16,h2
+Arenoso,Swingle,Alta,87,3,357,Estresante,21,38,0,0,200,45055,27931,245,447,412,311,186,42,h2
+Arenoso,Macrophila y Swingle ,Baja,87,11,476,Estresante,26,125,400,0,0,25060,23290,342,339,315,248,109,17,h3
+Arenoso,Macrophila y Swingle ,Baja,87,11,476,Estresante,27,65,400,250,200,327,238,1,2,4,5,2,0,h3
+Arenoso,Macrophila y Swingle ,Baja,87,11,476,Estresante,27,86,0,0,200,8099,7412,118,141,106,43,22,6,h3
+Arenoso,Macrophila y Swingle ,Baja,87,11,476,Estresante,27,43,400,250,0,19536,12259,11,57,90,196,234,139,h3
+Arenoso,Macrophila y Swingle ,Baja,87,11,476,Estresante,27,43,400,250,0,7207,5678,13,13,27,72,134,75,h3
+Arenoso,Macrophila y Swingle ,Alta,87,11,476,Estresante,26,43,0,0,200,51645,18445,27,130,182,299,283,164,h3
+Arenoso,Macrophila y Swingle ,Alta,87,11,476,Estresante,26,43,0,0,200,29299,14756,19,100,133,238,227,151,h3
+Arenoso,Macrophila y Swingle ,Alta,87,11,476,Estresante,26,43,0,0,200,19028,10931,35,117,154,175,123,39,h3
+Arenoso,Macrophila y Swingle ,Alta,87,11,476,Estresante,26,43,0,0,200,18163,9197,22,97,123,127,107,65,h3
+Arenoso,Macrophila y Swingle ,Baja,87,11,476,Estetica ,28,65,0,250,0,8332,4668,14,82,58,53,45,22,h3
+Arenoso,Macrophila y Swingle ,Baja,87,11,476,Estetica ,28,65,0,250,0,4056,1821,6,40,29,26,12,0,h3
+Arenoso,Macrophila y Swingle ,Baja,87,12,952,Estetica ,27,125,400,0,200,6534,6001,73,47,81,90,54,8,h4
+Arenoso,Macrophila y Swingle ,Baja,87,12,952,Estetica ,27,86,400,250,0,8314,7582,171,116,70,61,27,1,h4
+Arenoso,Macrophila y Swingle ,Baja,87,12,952,Estetica ,25,45,0,250,0,2002,1666,13,12,18,26,22,7,h4
+Arenoso,Macrophila y Swingle ,Baja,87,12,952,Estetica ,27,65,0,250,0,8651,7208,16,23,57,123,148,57,h4
+Arenoso,Macrophila y Swingle ,Baja,87,12,952,Estetica ,26,37,400,0,200,16518,7684,47,190,71,74,52,18,h4
+Arenoso,Macrophila y Swingle ,Alta,87,12,952,Estetica ,26,37,400,0,200,9333,6902,38,164,74,65,54,11,h4
+Arenoso,Macrophila y Swingle ,Alta,87,12,952,Estetica ,28,32,400,0,0,3396,2499,8,32,24,40,22,21,h4
+Arenoso,Macrophila y Swingle ,Baja,87,12,952,Estetica ,28,65,0,250,0,1696,1020,3,21,9,11,10,6,h4
+Arenoso,Macrophila y Swingle ,Baja,87,12,952,Estetica ,28,65,0,250,0,2478,1615,10,33,12,20,14,6,h4
+Arenoso,Swingle ,Baja,87,4,285,Estresante,21,175,400,0,0,5564,4641,121,73,36,26,14,3,h1
+Arenoso,Swingle ,Baja,87,4,285,Estresante,21,175,400,0,0,6286,5134,95,100,65,29,12,1,h1
+Arenoso,Swingle ,Baja,87,4,285,Estresante,20,135,400,250,200,7907,6681,56,70,68,90,83,26,h1
+Arenoso,Swingle ,Baja,87,4,285,Estresante,20,135,400,250,200,8594,4794,67,106,55,28,22,4,h1
+Arenoso,Swingle ,Alta,87,4,285,Estresante,20,25,400,125,200,51955,38131,60,454,405,550,523,251,h1
+Arenoso,Swingle ,Alta,87,4,285,Estresante,20,25,400,125,200,18912,16422,98,264,250,226,113,15,h1
+Arenoso,Swingle ,Alta,87,4,285,Estetica ,22,13,400,0,200,52434,34272,37,504,631,470,283,91,h1
+Arenoso,Swingle ,Alta,87,4,285,Estetica ,22,13,400,0,200,71369,48127,78,697,856,780,392,28,h1
+Arenoso,Swingle ,Alta,87,4,285,Estetica ,22,13,400,0,200,29293,22474,113,517,326,209,109,48,h1
+Arenoso,Swingle ,Alta,87,4,285,Estetica ,22,13,400,0,200,88179,57953,329,1385,865,571,226,33,h1
+Arenoso,Swingle ,Alta,87,4,285,Estetica ,23,21,400,0,0,15407,9112,63,154,107,122,90,0,h1
+Arenoso,Swingle ,Alta,87,4,285,Estetica ,23,21,400,0,0,7950,4947,66,105,54,42,24,0,h1
+Arenoso,Swingle ,Alta,87,4,285,Estetica ,23,15,400,250,200,14187,11407,13,53,102,196,224,83,h1
+Arenoso,Swingle ,Alta,87,4,285,Estetica ,23,15,400,250,200,9303,8007,10,54,76,153,141,37,h1
+Arenoso,Swingle ,Alta,87,4,285,Estetica ,28,20,0,250,200,25069,19686,15,89,148,295,452,159,h1
+Arenoso,Swingle ,Alta,87,4,285,Estetica ,28,20,0,250,200,13101,6494,5,57,44,80,157,39,h1
+Arenoso,Swingle ,Baja,87,4,285,Estetica ,33,35,400,250,200,5097,3893,5,18,29,62,71,44,h1
+Arenoso,Swingle ,Baja,87,4,285,Estetica ,31,28,400,0,200,11541,9129,41,133,123,125,89,26,h1
+Arenoso,Swingle ,Baja,87,4,285,Estetica ,31,240,0,0,200,9294,7990,71,112,100,88,77,22,h1
+Arenoso,Swingle ,Baja,87,4,357,Estresante,21,271,400,250,0,18402,16286,20,127,136,288,298,89,h2
+Arenoso,Swingle ,Baja,87,4,357,Estresante,21,271,400,250,0,6888,5797,2,9,58,156,0,116,h2
+Arenoso,Swingle ,Baja,87,4,357,Estresante,21,271,400,250,0,25020,22100,43,154,159,329,407,208,h2
+Arenoso,Swingle ,Alta,87,4,357,Estresante,20,25,400,250,0,59420,46155,58,877,701,651,311,117,h2
+Arenoso,Swingle ,Alta,87,4,357,Estresante,20,25,400,250,0,28888,20587,53,331,340,306,151,30,h2
+Arenoso,Swingle ,Alta,87,4,357,Estresante,20,26,400,250,0,80196,52071,115,986,912,716,276,58,h2
+Arenoso,Swingle ,Alta,87,4,357,Estresante,22,13,0,0,200,48789,32470,94,720,499,373,192,32,h2
+Arenoso,Swingle ,Alta,87,4,357,Estresante,22,13,0,0,200,47288,33779,279,852,428,293,128,7,h2
+Arenoso,Swingle ,Alta,87,4,357,Estresante,22,13,0,0,200,51928,33983,280,681,552,365,111,10,h2
+Arenoso,Swingle ,Alta,87,4,357,Estresante,22,13,0,0,200,17567,13379,158,291,139,156,43,0,h2
+Arenoso,Swingle ,Alta,87,4,357,Estresante,23,21,400,0,200,15187,10409,40,125,122,160,161,9,h2
+Arenoso,Swingle ,Alta,87,4,357,Estresante,23,21,400,250,0,4897,3774,6,24,40,68,62,22,h2
+Arenoso,Swingle ,Alta,87,4,357,Estresante,23,21,400,250,0,15610,12206,41,95,89,189,224,80,h2
+Arenoso,Swingle ,Baja,87,4,357,Estetica ,23,15,400,250,0,5393,3757,2,44,56,43,52,24,h2
+Arenoso,Swingle ,Baja,87,4,357,Estetica ,23,15,400,250,0,22859,19363,21,139,218,358,318,85,h2
+Arenoso,Swingle ,Baja,87,4,357,Estetica ,33,31,0,0,200,54728,46750,85,227,450,880,855,253,h2
+Arenoso,Swingle ,Baja,87,4,357,Estetica ,33,31,0,0,200,6037,4828,6,23,43,86,102,24,h2
+Arenoso,Swingle ,Baja,87,4,357,Estetica ,33,31,0,0,200,35326,28118,71,194,324,503,421,141,h2
+Arenoso,Swingle ,Baja,87,4,357,Estetica ,31,28,400,250,200,13905,11900,75,146,177,165,109,28,h2
+Arenoso,Swingle ,Baja,87,4,357,Estetica ,32,28,400,250,200,10461,8534,37,76,100,146,112,31,h2
+Arenoso,Swingle ,Baja,87,4,357,Estetica ,31,25,400,250,200,9093,7684,67,109,97,101,62,16,h2
+Arenoso,Macrophila y Swingle ,Alta,87,12,476,Estresante,23,250,400,0,200,10314,8466,167,176,80,50,23,2,h3
+Arenoso,Macrophila y Swingle ,Alta,87,12,476,Estresante,23,272,0,250,200,12209,10744,89,149,125,158,95,16,h3
+Arenoso,Macrophila y Swingle ,Alta,87,12,476,Estresante,23,18,400,250,0,39454,32351,126,363,331,445,379,259,h3
+Arenoso,Macrophila y Swingle ,Alta,87,12,476,Estresante,24,113,400,250,200,5198,4369,14,38,34,48,75,48,h3
+Arenoso,Macrophila y Swingle ,Alta,87,12,476,Estresante,23,20,0,0,200,41458,25109,90,482,445,314,143,3,h3
+Arenoso,Macrophila y Swingle ,Alta,87,12,476,Estresante,23,20,0,0,200,38654,25585,28,459,381,385,228,24,h3
+Arenoso,Macrophila y Swingle ,Baja,87,12,476,Estresante,24,15,400,0,0,7048,5287,20,46,43,98,85,19,h3
+Arenoso,Macrophila y Swingle ,Baja,87,12,476,Estresante,28,20,400,250,0,15007,12733,8,59,99,207,266,110,h3
+Arenoso,Macrophila y Swingle ,Baja,87,12,476,Estetica ,31,28,400,250,0,24484,18003,188,291,308,180,75,17,h3
+Arenoso,Macrophila y Swingle ,Baja,87,12,476,Estetica ,33,35,400,250,0,15783,12852,87,172,183,179,104,31,h3
+Arenoso,Macrophila y Swingle ,Baja,87,13,952,Estresante,23,258,200,0,200,1675,1275,43,20,9,2,1,0,h4
+Arenoso,Macrophila y Swingle ,Baja,87,13,952,Estresante,24,260,200,0,200,2899,2431,41,28,23,33,15,3,h4
+Arenoso,Macrophila y Swingle ,Alta,87,13,952,Estresante,24,113,0,250,0,32369,26911,42,267,235,384,446,209,h4
+Arenoso,Macrophila y Swingle ,Alta,87,13,952,Estresante,24,113,0,250,0,5479,4726,23,41,42,63,71,38,h4
+Arenoso,Macrophila y Swingle ,Alta,87,13,952,Estresante,23,18,0,0,200,58647,38981,307,1001,521,328,129,7,h4
+Arenoso,Macrophila y Swingle ,Alta,87,13,952,Estresante,23,18,0,0,200,33976,20315,73,459,307,235,91,30,h4
+Arenoso,Macrophila y Swingle ,Alta,87,13,952,Estetica ,23,15,200,0,200,3406,2584,21,33,21,33,35,9,h4
+Arenoso,Macrophila y Swingle ,Alta,87,13,952,Estetica ,24,15,200,250,0,4739,2516,9,33,23,33,35,15,h4
+Arenoso,Swingle,baja,87,5,285,Estetica ,25,213,0,250,200,18108,17051,147,331,283,146,93,3,h1
+Arenoso,Swingle,baja,87,5,285,Estetica ,25,213,0,250,200,20988,19193,104,326,347,188,164,33,h1
+Arenoso,Swingle,baja,87,5,285,Estetica ,25,213,0,250,200,27324,25296,185,240,394,336,203,130,h1
+Arenoso,Swingle,baja,87,5,285,Estresante,24,190,400,0,200,8835,5270,36,62,75,63,47,27,h1
+Arenoso,Swingle,baja,87,5,285,Estresante,24,190,400,0,200,12060,11288,138,48,115,175,134,54,h1
+Arenoso,Swingle,baja,87,5,285,Estresante,24,190,400,0,200,18353,17051,141,230,349,163,97,23,h1
+Arenoso,Swingle,baja,87,5,285,Estresante,24,190,400,0,200,30325,28577,422,500,440,176,123,20,h1
+Arenoso,Swingle,baja,87,5,285,Estresante,24,190,400,0,200,34025,32113,623,627,386,146,91,16,h1
+Arenoso,Swingle,alta,87,5,285,Estresante,23,225,400,0,0,15876,14994,77,202,268,204,122,9,h1
+Arenoso,Swingle,alta,87,5,285,Estresante,23,225,400,0,0,31752,29291,321,499,404,265,197,37,h1
+Arenoso,Swingle,alta,87,5,285,Estresante,23,225,400,0,0,11178,10557,93,212,207,90,19,0,h1
+Arenoso,Swingle,alta,87,5,285,Estresante,23,225,400,0,0,12870,11883,116,111,226,161,77,8,h1
+Arenoso,Swingle,alta,87,5,285,Estresante,24,100,400,250,200,9792,9197,39,112,201,128,50,11,h1
+Arenoso,Swingle,alta,87,5,285,Estresante,24,100,400,250,200,7542,6919,18,39,77,110,112,51,h1
+Arenoso,Swingle,alta,87,5,285,Estresante,24,100,400,250,200,8946,8381,74,116,125,127,44,7,h1
+Arenoso,Swingle,alta,87,5,285,Estresante,24,100,400,250,200,17982,16949,116,255,319,228,67,12,h1
+Arenoso,Swingle,alta,87,5,285,Estresante,24,75,400,250,200,7416,6647,1,22,70,168,93,37,h1
+Arenoso,Swingle,alta,87,5,285,Estresante,24,75,400,250,200,20340,18955,42,161,271,420,191,30,h1
+Arenoso,Swingle,alta,87,5,285,Estresante,24,75,400,250,200,32958,30549,74,280,523,566,291,63,h1
+Arenoso,Swingle,alta,87,5,285,Estresante,24,75,400,250,200,32040,29903,56,308,448,536,357,54,h1
+Arenoso,Swingle,alta,87,5,285,Estresante,22,30,400,250,200,23022,20757,40,212,324,353,281,11,h1
+Arenoso,Swingle,alta,87,5,285,Estresante,22,30,400,250,200,25362,23885,149,335,367,322,202,30,h1
+Arenoso,Swingle,alta,87,5,285,Estresante,22,30,400,250,200,24822,23188,107,391,522,151,147,46,h1
+Arenoso,Swingle,alta,87,5,285,Estresante,22,30,400,250,200,25092,23698,59,402,488,240,201,4,h1
+Arenoso,Swingle,alta,87,5,285,Estresante,22,30,400,0,200,12600,11900,79,277,153,108,83,0,h1
+Arenoso,Swingle,alta,87,5,285,Estresante,22,30,400,0,200,6984,6596,78,139,62,72,37,0,h1
+Arenoso,Swingle,alta,87,5,285,Estresante,21,15,400,0,200,14740,12410,215,515,0,0,0,0,h1
+Arenoso,Swingle,alta,87,5,285,Estresante,21,15,400,0,200,12356,9214,162,380,0,0,0,0,h1
+Arenoso,Swingle,baja,87,5,285,Estresante,21,20,400,0,0,7165,5610,97,177,56,0,0,0,h1
+Arenoso,Swingle,baja,87,5,285,Estresante,21,20,400,0,0,7092,6698,39,38,111,206,0,0,h1
+Arenoso,Swingle,baja,87,5,285,Estetica ,25,213,0,250,200,7546,6528,32,79,151,62,43,17,h2
+Arenoso,Swingle,baja,87,5,357,Estresante,24,190,400,0,200,36254,34221,130,307,595,463,316,202,h2
+Arenoso,Swingle,baja,87,5,357,Estresante,24,190,400,0,200,11496,11152,89,125,222,98,115,7,h2
+Arenoso,Swingle,baja,87,5,357,Estresante,24,190,400,0,200,7546,6562,32,79,151,62,43,19,h2
+Arenoso,Swingle,baja,87,5,357,Estresante,23,255,400,0,200,2914,2567,16,44,51,25,14,1,h2
+Arenoso,Swingle,baja,87,5,357,Estresante,24,100,400,250,0,12042,10727,65,73,194,210,77,12,h2
+Arenoso,Swingle,baja,87,5,357,Estresante,24,75,400,250,0,27180,25228,151,240,369,426,235,63,h2
+Arenoso,Swingle,baja,87,5,357,Estresante,22,30,400,250,0,3042,2805,13,57,39,30,24,2,h2
+Arenoso,Swingle,alta,87,5,357,Estresante,22,30,400,250,0,26586,24769,35,424,652,199,135,12,h2
+Arenoso,Swingle,alta,87,5,357,Estresante,22,30,400,250,0,10962,10353,48,270,291,0,0,0,h2
+Arenoso,Swingle,alta,87,5,357,Estetica ,21,20,400,0,200,3042,2873,10,72,74,6,7,0,h2
+Arenoso,Swingle,alta,87,5,357,Estetica ,21,20,400,0,200,1440,1360,9,31,15,10,15,0,h2
+Arenoso,Swingle,baja,87,5,357,Estetica ,21,20,400,0,200,4428,4182,9,36,110,91,0,0,h2
+Arenoso,Macrophila y Swingle,baja,87,13,476,Estetica ,25,213,0,250,200,5657,4998,11,93,89,50,23,28,h3
+Arenoso,Macrophila y Swingle,baja,87,13,476,Estresante,24,190,400,0,200,20902,16201,152,96,441,148,105,11,h3
+Arenoso,Macrophila y Swingle,alta,87,13,476,Estresante,23,225,400,0,0,14904,13991,92,212,247,165,96,11,h3
+Arenoso,Macrophila y Swingle,alta,87,13,476,Estresante,24,100,0,0,200,7398,6987,40,95,143,119,14,0,h3
+Arenoso,Macrophila y Swingle,alta,87,13,476,Estresante,24,75,400,250,200,1530,1394,3,5,10,41,21,2,h3
+Arenoso,Macrophila y Swingle,alta,87,13,476,Estresante,24,75,400,250,200,1530,1394,3,5,10,41,21,2,h3
+Arenoso,Macrophila y Swingle,alta,87,13,476,Estresante,24,75,400,250,200,17766,16558,76,253,261,236,123,25,h3
+Arenoso,Macrophila y Swingle,alta,87,13,476,Estresante,24,75,400,250,200,6498,5865,13,103,126,63,40,0,h3
+Arenoso,Macrophila y Swingle,alta,87,13,476,Estresante,22,30,400,250,0,7344,1859,5,20,23,13,41,7,h3
+Arenoso,Macrophila y Swingle,alta,87,13,476,Estresante,22,30,400,250,0,2466,2329,2,47,56,18,14,0,h3
+Arenoso,Macrophila y Swingle,baja,87,13,476,Estresante,21,15,0,0,200,3672,3536,38,114,42,4,10,0,h3
+Arenoso,Macrophila y Swingle,baja,87,14,952,Estetica ,25,213,0,250,0,10098,44,80,91,120,142,70,44,h4
+Arenoso,Macrophila y Swingle,baja,87,14,952,Estetica ,25,213,0,250,0,6626,6001,4,55,128,73,45,48,h4
+Arenoso,Macrophila y Swingle,alta,87,14,952,Estresante,23,255,200,0,200,9666,9265,136,175,160,45,27,2,h4
+Arenoso,Macrophila y Swingle,alta,87,14,952,Estresante,23,255,200,0,200,954,901,13,15,12,7,4,2,h4
+Arenoso,Macrophila y Swingle,baja,87,14,952,Estresante,24,75,0,250,0,4176,3944,11,31,31,104,48,7,h4
+Arenoso,Macrophila y Swingle,baja,87,14,952,Estresante,24,75,0,250,0,5664,5474,8,11,39,140,105,19,h4
+Arenoso,Macrophila y Swingle,baja,87,14,952,Estresante,24,75,0,250,0,3492,3213,7,28,50,57,46,1,h4
+Arenoso,Macrophila y Swingle,baja,87,14,952,Estresante,24,75,0,250,0,4392,4148,14,51,76,63,40,0,h4
+Arenoso,Macrophila y Swingle,alta,87,14,952,Estresante,22,30,0,250,0,23652,22117,14,151,295,479,330,32,h4
+Arenoso,Macrophila y Swingle,alta,87,14,952,Estresante,22,30,0,250,0,3186,3009,6,25,62,51,33,0,h4
+Arenoso,Macrophila y Swingle,alta,87,14,952,Estresante,22,30,0,250,0,3474,3090,4,38,68,40,31,1,h4
+Arenoso,Macrophila y Swingle,alta,87,14,952,Estresante,22,30,0,250,0,12726,12019,77,194,191,149,80,16,h4
+Arenoso,Macrophila y Swingle,alta,87,14,952,Estresante,21,15,0,0,200,7920,7497,14,137,220,37,32,1,h4
+Arenoso,Macrophila y Swingle,alta,87,14,952,Estresante,21,15,0,0,200,1620,1530,10,33,38,0,0,9,h4
